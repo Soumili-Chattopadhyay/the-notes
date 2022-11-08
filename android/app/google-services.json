@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087614594522",
+    "project_id": "the-note-backend",
+    "storage_bucket": "the-note-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087614594522:android:39722c8933d49e11b1e4e3",
+        "android_client_info": {
+          "package_name": "com.example.the_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087614594522-ig3cnrp0h99j6i5t55nd9gj73hdi3cds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2ShtOS30aWtwO3NkX2vD2CQl93hb6_B8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087614594522-ig3cnrp0h99j6i5t55nd9gj73hdi3cds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
